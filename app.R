@@ -1,6 +1,5 @@
 #automatically creates inputs and filters table for any data set
 
-
 library(shiny)
 library(dplyr)
 library(lazyeval)
